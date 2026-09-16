@@ -3,3 +3,4 @@ Lab VMs/
 *.iso
 *.zip
 *.pdf
+docs/scripts/log-parsers/auth.log
